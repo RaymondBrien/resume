@@ -1,39 +1,49 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+## 📄 Developer Interactive CV Website Template
 
-Welcome,
+Welcome to the Developer Interactive CV Website Template repository! This template provides a sleek and interactive platform for showcasing your skills and experience as a software developer. Below is a brief overview of the repository structure and how to utilize it.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## 📌 Main Features
+- **Main Tab**: Showcase the most important information about yourself.
+- **Resume Tab**: Provide detailed work history and specific skills.
+- **Contact Tab**: Includes a form for employers, collaborators, and the general public to get in touch.
+- **Download Link**: Allow anyone to download a traditional CV PDF for employers.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+## 🚀 Getting Started
+1. **Fork the Repository**: Click the "Fork" button on GitHub to create your copy of this repository.
+2. **Clone the Repository**: Clone the forked repository to your local machine using `git clone`.
+3. **Customize the Content**: Modify the content of each tab according to your preferences and experiences.
+4. **Update Contact Form**: Make sure to update the contact form with your information in `contact.html`.
+5. **Deploy the Website**: Once customized, deploy the website using your preferred hosting platform.
 
-## Codeanywhere Reminders
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- Bootstrap for styling)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+## 📝 How to Use
+1. **Main Tab**: Edit `index.html` to update the main information displayed.
+2. **Resume Tab**: Modify `resume.html` to include your work history and specific skills.
+3. **Contact Tab**: Customize `contact.html` with your contact information and any additional fields you may require in the form.
+4. **PDF Download**: Replace `cv.pdf` with your own traditional CV PDF file.
 
-`python3 -m http.server`
+## 🔍 Raising Issues
+If you encounter any bugs, have suggestions, or need assistance, you can raise an issue on GitHub:
+1. Go to the "Issues" tab of the repository.
+2. Click on "New Issue" and fill out the necessary details.
+3. Submit the issue, and we'll address it as soon as possible.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## 🚀 Feature Suggestions
+If you have any ideas for new features or improvements, we welcome your suggestions! Follow the same process for raising issues on GitHub and tag them appropriately for feature requests.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+## 📞 Contact
+For any inquiries or assistance regarding this template, feel free to reach out:
+- Email: [raytbrien@gmail.com](mailto:raytbrien@gmail.com)
 
-`http_server`
+## 💳 Acknowledgements
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+Thank you to Code Institute for the use of their template:
+- Template: [https://github.com/Code-Institute-Org/ci-full-template](https://github.com/Code-Institute-Org/ci-full-template)
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+----
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+We hope you find this Developer Interactive CV Website Template useful for showcasing your skills and experience! Contributions and feedback are always welcome. Happy coding! 🎉
