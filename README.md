@@ -18,7 +18,7 @@ Welcome to the Developer Interactive CV Website Template repository! This templa
 ## 🛠️ Technologies Used
 - HTML
 - CSS
-- Bootstrap for styling)
+- Bootstrap
 
 ## 📝 How to Use
 1. **Main Tab**: Edit `index.html` to update the main information displayed.
