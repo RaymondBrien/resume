@@ -360,6 +360,13 @@ button[type="submit"] {
     background-color: #e84610;
 }
 
+
+
+/* ----------------------------------------Interests Page */
+div#map {min-height: 360px;}
+
+
+
 /* ----------------------------------------Media Queries */
 
 @media(min-width: 992px) {
@@ -370,3 +377,4 @@ button[type="submit"] {
         max-width: 50%;
     }
 }
+
